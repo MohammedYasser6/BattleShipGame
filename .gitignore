@@ -1,0 +1,40 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+x64/
+Win32/
+ARM/
+ARM64/
+
+# Executables and intermediate
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.obj
+*.pch
+*.ipch/
+*.aps
+*.tlog
+*.[Cc]ache
+*.VC.db
+
+# Other common files to ignore
+*.opendb
+*.sdf
+
+# If you use package managers like NuGet locally
+# packages/
+# *.nupkg
